@@ -71,7 +71,7 @@ WiFiVision
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/WiFiVision.git
+git clone https://github.com/vedhant-khajuria/WiFiVision.git
 ```
 
 ### Move into the project folder
